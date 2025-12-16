@@ -1,6 +1,6 @@
 # credit-card-approval-prediction
 ML pipeline for credit card approval prediction
-# Credit Card Approval Prediction
+
 
 ## Overview
 
